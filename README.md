@@ -1,9 +1,16 @@
-Hi, I am Anuj.
+GitHub Bio
+🚀 Computational Biologist | AI & Bioinformatics | Multi-Omics Data Scientist
 
-I am a senior bioinformatics and ML scientist at hC Bio where I apply and develop computational, statistical, machine and deep learning methods to single-cell RNA-seq data in order to discover novel biomarkers and drug targets for challenging diseases.
+Hi, I'm Anuj Gupta, a computational biologist and machine learning scientist with expertise in functional genomics, AI-driven drug discovery, and multi-omics data analysis. My work focuses on integrating bioinformatics, deep learning, and large-scale genomics data to uncover disease mechanisms and accelerate therapeutic development.
 
-I received my Ph.D. in from the Georgia Tech in 2021. In my academic life, I researched and developed new computational and statistical methods for processing, interpreting and understanding the large and heterogeneous biomedical datasets focussed on Malaria and other infectious diseases. I applied and developed novel Bioinformatics and Machine Learning driven solutions for various biological questions in order to address outstanding questions in cell biology, human health, and disease.
+What I Work On
+AI & Machine Learning for Genomics – LLMs, generative models, Bayesian optimization, gene regulation modeling
+Functional Genomics & Epigenetics – RNA-seq, scRNA-seq, ChIP-seq, ATAC-seq, 3D chromatin modeling (Hi-C)
+Bioinformatics Pipelines – Scalable workflows for NGS, single-cell, and spatial transcriptomics
+Cloud & HPC – AWS, GCP, Nextflow, Snakemake, workflow automation
+Let's Connect!
+I love collaborating on open-source bioinformatics tools, AI-driven biomedical research, and data-driven healthcare solutions. Feel free to check out my repositories or reach out!
 
-Feel free to explore my repository and if you are curious my webpage (https://anujg30.github.io/) has more info.
-
-Cheers!!!
+🔗 Website: https://anujg30.github.io/
+💼 LinkedIn: (https://www.linkedin.com/in/anujg30/)
+📫 Email: ag.anuj1991@gmail.com
